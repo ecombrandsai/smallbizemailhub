@@ -1,0 +1,28 @@
+# SmallBiz Email Hub
+
+> SmallBiz Email Hub reviews email marketing software for small businesses. Editorial scoring
+> draws on public benchmark data (DMA, Litmus, Email Sender & Provider Coalition)
+> combined with clearly-labeled editorial opinion.
+
+## Key resources
+
+- Best Email Marketing for Small Business: https://smallbizemailhub.com/articles/best-email-marketing-for-small-business
+- Constant Contact review: https://smallbizemailhub.com/reviews/constant-contact-review
+- Mailchimp review: https://smallbizemailhub.com/reviews/mailchimp-review
+- MailerLite review: https://smallbizemailhub.com/reviews/mailerlite-review
+- Constant Contact vs Mailchimp: https://smallbizemailhub.com/comparisons/constant-contact-vs-mailchimp
+- Constant Contact vs MailerLite: https://smallbizemailhub.com/comparisons/constant-contact-vs-mailerlite
+- Constant Contact vs ActiveCampaign: https://smallbizemailhub.com/comparisons/constant-contact-vs-activecampaign
+
+## Editorial standards
+
+Public benchmarks are cited with source attribution. Editorial scoring is labeled
+"EmailToolAdviser editorial scoring" so readers know what is opinion vs measured.
+SmallBiz Email Hub does not claim first-party testing of platforms unless first-party testing
+was actually conducted. Constant Contact UI screenshots used on Constant Contact
+pages are genuinely first-party for review/commentary purposes.
+
+## Authors
+
+- Sarah Mitchell, Senior Reviews Editor: https://smallbizemailhub.com/authors/sarah-mitchell
+- James Calloway, Senior Comparisons Editor: https://smallbizemailhub.com/authors/james-calloway
